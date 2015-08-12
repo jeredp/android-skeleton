@@ -1,0 +1,14 @@
+This is a barebones, minimalistic app.
+What is included are:
+    a) Setup for sugarOrm - For a simple database layer
+    b) Retrofit - To make REST calls
+    c) Robolectric - Powerful unit test framework built to work with junit
+    d) Butterknife - Android component dependency injection framework
+
+To start:
+0) get android studio
+1) download android SDK 21 through the SDK manager.
+2) Follow the instructions for editing the test configuration: http://robolectric.org/getting-started/
+3) click build variants in the lower left hand side of android studio and select unit tests in the test artifact dropdown
+4) Enjoy
+
